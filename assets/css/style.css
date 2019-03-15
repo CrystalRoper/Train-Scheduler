@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    border: 3cm;
+    border-color: white;
+}
+
+#main-container {
+background-color: #d7c3a5;
+margin-top: 1in;
+
+}
+
+#added-train-container {
+    background-color: #4c4c4c;
+    color: white;
+}
